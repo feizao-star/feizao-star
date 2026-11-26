@@ -4,8 +4,6 @@
 <h1>🫧 ₊˚⊹ 𝒮𝒪𝒜𝒫 ⊹˚₊ 🫧</h1>
 
 <!-- FIRST SECTION: Image 1 + Basic Info -->
-<table>
-  <tr>
     <td width="45%" align="center" valign="middle">
       <img width="291" height="234" alt="Screenshot 2026-11-26 142234" src="https://github.com/user-attachments/assets/0180a7a4-d020-4bfb-8c54-38226dbdefd9" />
 
@@ -37,7 +35,6 @@
         <li>✨ <b>General stuff</b></li>
       </ul>
     </td>
-    <td width="45%" align="center" valign="middle">
       <img width="218" height="191" alt="Screenshot 2026-11-26 142335" src="https://github.com/user-attachments/assets/e2fbbada-360e-4808-a679-b4e17471e7f6" />
 
     </td>
