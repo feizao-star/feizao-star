@@ -1,6 +1,7 @@
 <div align="center">
 
-<!-- TOP HEADER: Swap for a TextStudio 'SOAP' PNG later if you want! -->
+<!-- TOP HEADER: <img width="314" height="293" alt="Screenshot 2026-11-26 000424-tinted" src="https://github.com/user-attachments/assets/b8339f36-7398-4719-9d27-d306294ff6f4" />
+ -->
 <h1>🫧 ₊˚⊹ 𝒮𝒪𝒜𝒫 ⊹˚₊ 🫧</h1>
 
 <!-- MAIN SCRAPBOOK SECTION -->
