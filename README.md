@@ -7,7 +7,8 @@
 <table>
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="feizao1.png" alt="Feizao Doodle" width="220">
+      <img width="291" height="234" alt="Screenshot 2026-11-26 142234" src="https://github.com/user-attachments/assets/0180a7a4-d020-4bfb-8c54-38226dbdefd9" />
+
     </td>
     <td width="55%" align="left" valign="middle">
       <h2>🧼 𝐹𝑒𝑖𝑧𝑎𝑜</h2>
@@ -37,7 +38,8 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="feizao2.png" alt="Feizao Art" width="240">
+      <img width="218" height="191" alt="Screenshot 2026-11-26 142335" src="https://github.com/user-attachments/assets/e2fbbada-360e-4808-a679-b4e17471e7f6" />
+
     </td>
   </tr>
 </table>
